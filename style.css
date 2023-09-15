@@ -1,0 +1,29 @@
+#counter{
+    font-size: 100px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    width: 80px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 10px;
+    border-color: transparent;
+    outline: none;
+    font-size: 17px;
+    transition: 1s;
+}
+button:hover{
+    color: aliceblue;
+    background-color: rgb(68, 68, 236);
+}
+body{
+    background-color:  #2E3239; ;
+    
+}
